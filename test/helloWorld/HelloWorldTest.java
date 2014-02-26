@@ -16,9 +16,9 @@ public class HelloWorldTest {
     @Test
     public void testAssertNull() {
         assertNull("should be null", null);
-        str = "string";
+        String str = "string";
         assertNull("should be null", str);
-        String str = null;
+        str = null;
         assertNull("should be null", str);
     }
 }
