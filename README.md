@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/stravin/java-junit-template-project.png?branch=master)](https://travis-ci.org/dreamer84/java-junit-template-project)
+[![Build Status](https://travis-ci.org/stravin/java-junit-template-project.png?branch=master)](https://travis-ci.org/stravin/java-junit-template-project)
 
 # Java + Junit + Ant Template Project
 ----------
